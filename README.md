@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.2.
 
-Whole application is built with standalone components and directives.
+Whole application is built with standalone components and directives with use of [PrimeNg](https://primeng.org/) framework.
 
 I implemented each part of specification **except for**:
 - searchable table
